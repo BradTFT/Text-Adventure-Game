@@ -1,1 +1,13 @@
 game doumentation here:
+
+
+Ok. first day, basic layout of the game. i want a basic rpg type game with a health system and a decision making story
+
+health system is a life interval(1+, 1-, 0.5+, 0.5-)
+
+i want to add a weapon system with durability ect.
+
+damage and health loss/gain will be based off a dice roll.(random lib will make diceroll easy)
+i need to make a dice roll outcome system. my idea is 2 dice rolls. one is the attempt and it will roll between 1-38 and one is the outcome. if the outcome is higher than the attempt then the attack, ect. is successful and vise versa. if the numbers are equal then it fails.
+im going to test this in another file then add it after. 
+roll test was successful and the process is inside the file.
