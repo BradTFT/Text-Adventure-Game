@@ -10,6 +10,7 @@ def rollSystem():
     time.sleep(1)
     print(f"outcome: {outcome}")
     time.sleep(.5)
+    
     if outcome > attempt:
         print(failedattack)
     elif outcome == attempt:
