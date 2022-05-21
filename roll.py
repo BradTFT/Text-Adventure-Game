@@ -3,13 +3,14 @@
 
 def rollSystem():
     import random
-    attack = input('you need to attack this spider')
+    import time
     attempt = random.randrange(1, 38)
     outcome = random.randrange(1, 38)
     failedattack = 'Your attack failed'
     passedattack = 'Your attack was sucessful'
 
     print(f'your roll: {attempt}')
+    time.sleep(2)
     print(f"outcome: {outcome}")
 
     if outcome > attempt:
