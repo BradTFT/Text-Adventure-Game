@@ -1,6 +1,3 @@
-
-
-
 def rollSystem():
     import random
     import time
