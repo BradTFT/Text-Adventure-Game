@@ -10,9 +10,9 @@ def rollSystem():
     passedattack = 'Your attack was sucessful'
 
     print(f'your roll: {attempt}')
-    time.sleep(2)
+    time.sleep(1)
     print(f"outcome: {outcome}")
-
+    time.sleep(.5)
     if outcome > attempt:
         print(failedattack)
     elif outcome == attempt:
