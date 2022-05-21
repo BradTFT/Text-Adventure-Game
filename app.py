@@ -1,3 +1,1 @@
-print('Hello world')
-
-#text adventure game documentation will be created in docs.txt
+from roll import rollSystem #imports a background file running the rolling function
