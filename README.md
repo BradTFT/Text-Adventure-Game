@@ -2,7 +2,7 @@
 Ive decided to make a basic text adventure game. this will teach me a lot of stuff.
 
 
-**4.13.22:**
+**5.20.22:**
 First day. Init git and readied first files.
 
 damage and health loss/gain will be based off a dice roll.(random lib will make diceroll easy)
